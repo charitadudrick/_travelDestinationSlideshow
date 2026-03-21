@@ -1,0 +1,32 @@
+[
+  {
+    "src": "images/nz1.jpg",
+    "url": "https://www.milford-sound.co.nz/",
+    "caption": "Milford Sound – Fiordland"
+  },
+  {
+    "src": "images/nz2.jpg",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/",
+    "caption": "Aoraki / Mount Cook National Park"
+  },
+  {
+    "src": "images/nz3.jpg",
+    "url": "https://www.queenstownnz.co.nz/",
+    "caption": "Queenstown – Adventure Capital"
+  },
+  {
+    "src": "images/nz4.jpg",
+    "url": "https://www.hobbitontours.com/",
+    "caption": "Hobbiton Movie Set – Matamata"
+  },
+  {
+    "src": "images/nz5.jpg",
+    "url": "https://www.rotoruanz.com/",
+    "caption": "Rotorua – Geothermal & Māori Culture"
+  },
+  {
+    "src": "images/nz6.jpg",
+    "url": "https://www.newzealand.com/us/lake-tekapo/",
+    "caption": "Lake Tekapo – Church of the Good Shepherd"
+  }
+]
