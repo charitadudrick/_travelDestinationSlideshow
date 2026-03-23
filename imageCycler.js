@@ -73,7 +73,7 @@ const cycle = () => {
 
     if (slide_image) {
         slide_image.src = currentSlide.src;
-
+        $('slide_text').textContent = currentSlide.caption;
         slide_image.classList.remove("fade-in");
         void slide_image.offsetWidth;
         slide_image.classList.add("fade-in");
